@@ -1,4 +1,4 @@
-from header_spoof import core
+from headerspoof import core
 
 def test_audit_missing():
     # url inexistente -> cabecalhos vazios -> hsts/csp falsos
